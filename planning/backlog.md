@@ -17,11 +17,11 @@ create your own!
 
 - As a user activate, i need to know that card is links to other page.
 
-[ ] _there is an authentification card
+[ ] \_there is an authentification card
 
 - As a developer want to see what the design on the page.
 
-[ ] _ there simple design in the card that autosave
+[ ] \_ there simple design in the card that autosave
 
 ## Should-Haves
 
@@ -30,17 +30,17 @@ create your own!
 - **HOME PAGE**
 - As a developer can navigate on the web page from a navbar.
 
-[ ] _there is a title navbar that top of the page with link to a different
+[ ] \_there is a title navbar that top of the page with link to a different
 section
 
 ## Could-Haves
 
 > would be really cool ... if there's time
 
--  **HOME PAGE**
+- **HOME PAGE**
 - As a developer can find more information.
 
-[ ] _ there is a extra section of inform
+[ ] \_ there is a extra section of inform
 
 - As a developer activate, can find some gallery to different programs
 
