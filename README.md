@@ -147,6 +147,6 @@ Project by **Brad Traversy**
 ## Contact
 
 - [Nana](https://github.com/Nana99999)
-- [Ebeneze](https://github.com/Osei-b4)
+- [Ebenezer](https://github.com/Osei-b4)
 - [Takang](https://github.com/Takang03)
 - [Mohammad](https://github.com/MohammadWarisSharafzay)
