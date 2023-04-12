@@ -13,15 +13,15 @@ create your own!
 
 - As a site visitor, i can easily understand what the is about.
 
-[ ] _there is navbar and title at the top of the web page_
+[x] _there is navbar and title at the top of the web page_
 
 - As a user activate, i need to know that card is links to other page.
 
-[ ] _there is an authentification card_
+[x] _there is an authentification card_
 
 - As a developer want to see what the design on the page.
 
-[ ] _there simple design in the card that autosave_
+[x] _there simple design in the card that autosave_
 
 ## Should-Haves
 
@@ -30,7 +30,7 @@ create your own!
 - **HOME PAGE**
 - As a developer can navigate on the web page from a navbar.
 
-[ ] _there is a title navbar that top of the page with link to a different_
+[x] _there is a title navbar that top of the page with link to a different_
 section
 
 ## Could-Haves
@@ -40,8 +40,8 @@ section
 - **HOME PAGE**
 - As a developer can find more information.
 
-[ ] _there is a extra section of inform_
+[x] _there is a extra section of inform_
 
 - As a developer activate, can find some gallery to different programs
 
-[ ] _there are some animations_
+[x] _there are some animations_
