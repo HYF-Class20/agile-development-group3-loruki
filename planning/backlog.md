@@ -7,41 +7,41 @@ create your own!
 
 ## Must-Haves
 
-> these are necessary for basic usability
+these are necessary for basic usability
 
 - **HOME PAGE**
 
 - As a site visitor, i can easily understand what the is about.
 
-[x] _there is navbar and title at the top of the web page_
+- [ ] _there is navbar and title at the top of the web page_
 
 - As a user activate, i need to know that card is links to other page.
 
-[x] _there is an authentification card_
+- [ ] _there is an authentification card_
 
 - As a developer want to see what the design on the page.
 
-[x] _there simple design in the card that autosave_
+- [ ] _there simple design in the card that autosave_
 
 ## Should-Haves
 
-> these will complete the user experience, but are not necessary
+these will complete the user experience, but are not necessary
 
 - **HOME PAGE**
 - As a developer can navigate on the web page from a navbar.
 
-[x] _there is a title navbar that top of the page with link to a different_
-section
+- [ ] _there is a title navbar that top of the page with link to a different
+      section_
 
 ## Could-Haves
 
-> would be really cool ... if there's time
+would be really cool ... if there's time
 
 - **HOME PAGE**
 - As a developer can find more information.
 
-[x] _there is a extra section of inform_
+- [ ] _there is a extra section of inform_
 
 - As a developer activate, can find some gallery to different programs
 
-[x] _there are some animations_
+- [ ] _there are some animations_
