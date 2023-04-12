@@ -1,6 +1,26 @@
-# Name of project
+# Lokuri Cloud Hosting
 
-> A longer description
+This platform is a versatile tool for developers looking to build a wide variety
+of applications. Its modern architecture allows for scalability and flexibility,
+making it a great choice for projects of all sizes and complexity levels.
+Whether you're building a simple website or a complex web application, this
+platform provides the tools you need to create a robust and reliable product.
+
+One of the key benefits of this platform is its scalability. As your application
+grows and your user base expands, this platform can easily handle the increased
+traffic and demand. Its architecture is designed to be scalable and resilient,
+ensuring that your application stays up and running even during peak usage
+times.
+
+In addition to its scalability, this platform also offers modern features and
+tools that make it easy to build applications quickly and efficiently. Its
+modern architecture is designed to support popular programming languages,
+frameworks, and libraries, so you can use the tools you're already familiar with
+to build your application.
+
+Overall, this platform is a powerful tool for developers looking to build
+applications with modern architecture and scalability. Its versatility and ease
+of use make it a great choice for projects of all types and sizes.
 
 ## Table of contents
 
@@ -15,50 +35,106 @@
   - [Status](#status)
   - [Inspiration](#inspiration)
   - [Contact](#contact)
-  - [Instructions for use](#instructions-for-use)
-  - [Code Quality Checks](#code-quality-checks)
-  - [Continuous Integration (CI)](#continuous-integration-ci)
-  - [Repo Setup](#repo-setup)
 
 ## General info
 
-> A short description
+[**CONSTRAINTS**](https://github.com/HYF-Class20/agile-development-group3-loruki/blob/master/planning/constraints.md)
+</br> This section outlines the limits and boundaries of our project.</br>
+[**COMMUNICATION**](https://github.com/HYF-Class20/agile-development-group3-loruki/blob/master/planning/communication.md)
+</br> As team members have other commitments, this section explains our
+availability and schedules for group meetings to work on the project.</br>
+[**USER-PERSONA**](https://github.com/HYF-Class20/agile-development-group3-loruki/blob/master/planning/user-personas.md)
+</br> Here we have created an imaginary user to help us consider their
+perspective. The user personas are people who works in tech area.</br>
+[**BACKLOG**](https://github.com/HYF-Class20/agile-development-group3-loruki/blob/master/planning/backlog.md)</br>
+After creating the user persona, we thought about their needs and classified
+them into three categories: Must have, Should have, and Could have.</br>
+[**DESIGN**](https://github.com/HYF-Class20/agile-development-group3-loruki/blob/master/planning/design.md)</br>
+Based on our priorities, we will use the user persona and backlog to inform the
+design of our website. Both the user persona and backlog are complete. </br>
+[**DEVELOPMENT STRATEGY**](https://github.com/HYF-Class20/agile-development-group3-loruki/blob/master/planning/development-strategy.md)</br>
+This section is based on the backlog and is explained in our wireframe. </br>
+[**RETROSPECTIVE**](https://github.com/HYF-Class20/agile-development-group3-loruki/blob/master/planning/retrospective.md)
+</br> This section provides a brief summary of feedback received from team
+members about the project, including what went well, what could be improved, and
+any lessons learned.</br>
 
 ## Screenshots
 
-![Example screenshot](./planning/screenshot.jpg)
+![Example screenshot](./lokuri.png)
 
 ## Technologies
 
 - Node 14.16.0
 - VSC code
 - JavaScript
-- ...
-- ...
+- HTML
+- CSS
 
 ## Setup
 
-- `npm run start`
+Template from Brad Traversy
+
+- [Repository](https://github.com/HYF-Class20/agile-development-group3-loruki)
+- Create a project
+- Clone this
+  [Repository](https://github.com/HYF-Class20/agile-development-group3-loruki)
+- Add md files in planning folder directory
+- start editing md files:
 
 ## Code Examples
 
 ```js
 // the hello world program
-console.log("Hello World");
+<div class="navbar">
+  <div class="container flex">
+    <h1 class="logo">
+      <a href="index.html">Loruki.</a>
+    </h1>
+    <nav>
+      <ul>
+        <li>
+          <a href="index.html">Home</a>
+        </li>
+        <li>
+          <a href="features.html">Features</a>
+        </li>
+        <li>
+          <a href="docs.html">Docs</a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</div>
 ```
 
 ## Features
 
-List of features ready and Todos for future development
+Here are some of the main features:
 
--
--
--
+- **Scalability**: Cloud hosting allows for easy scalability, meaning that you
+  can quickly and easily increase your website's resources (such as CPU, memory,
+  and storage) to accommodate increased traffic or other demands. Reliability:
+  With cloud hosting, your website is hosted on a network of servers, so if one
+  server goes down, another can take its place, ensuring that your site stays up
+  and running. -**Flexibility**: Cloud hosting allows you to customize your
+  server resources to match your specific needs, such as choosing the amount of
+  CPU, memory, and storage you need. Security: Cloud hosting providers typically
+  have advanced security measures in place to protect your website from cyber
+  threats, such as DDoS attacks, malware, and hacking attempts.
+- **Cost-effectiveness**: Cloud hosting allows you to pay only for the resources
+  you use, which can be more cost-effective than traditional hosting options
+  that require you to pay for a fixed amount of resources. Speed: Cloud hosting
+  typically offers faster load times than traditional hosting options, as your
+  website is served from a network of servers rather than a single server.
+- **Ease of management**: With cloud hosting, you can manage your website and
+  server resources through an intuitive web-based interface, making it easy to
+  deploy new applications, monitor your website's performance, and make updates
+  as needed.
 
-To-do list:
-
--
--
+Overall, cloud hosting offers a flexible, scalable, and cost-effective solution
+for hosting your website, with advanced security and performance features to
+ensure that your site stays up and running smoothly.
 
 ## Status
 
@@ -66,63 +142,11 @@ Project is: _in progress_
 
 ## Inspiration
 
-Project by freeCodeCamp.org
+Project by **Brad Traversy**
 
 ## Contact
 
-By [Name]
-
-## Instructions for use
-
-<details>
-  <summary>Getting Started</summary>
-
-<!-- a guide to using this repository -->
-
-1. `git clone git@github.com:HackYourFutureBelgium/template-markdown.git`
-2. `cd template-markdown`
-3. `npm install`
-
-## Code Quality Checks
-
-- `npm run format`: Makes sure all the code in this repository is well-formatted
-  (looks good).
-- `npm run lint:ls`: Checks to make sure all folder and file names match the
-  repository conventions.
-- `npm run lint:md`: Will lint all of the Markdown files in this repository.
-- `npm run lint:css`: Will lint all of the CSS files in this repository.
-- `npm run validate:html`: Validates all HTML files in your project.
-- `npm run spell-check`: Goes through all the files in this repository looking
-  for words it doesn't recognize. Just because it says something is a mistake
-  doesn't mean it is! It doesn't know every word in the world. You can add new
-  correct words to the [./.cspell.json](./.cspell.json) file so they won't cause
-  an error.
-- `npm run accessibility -- ./path/to/file.html`: Runs an accessibility analysis
-  on all HTML files in the given path and writes the report to
-  `/accessibility_report`
-
-## Continuous Integration (CI)
-
-When you open a PR to `main`/`master` in your repository, GitHub will
-automatically do a linting check on the code in this repository, you can see
-this in the[./.github/workflows/lint.yml](./.github/workflows/lint.yml) file.
-
-If the linting fails, you will not be able to merge the PR. You can double check
-that your code will pass before pushing by running the code quality scripts
-locally.
-
-## Repo Setup
-
-- Give each member _write_ access to the repo (if it's a group project)
-- Turn on GitHub Pages and put a link to your website in the repo's description
-- Turn on GitHub Actions
-- in the _Branches_ section of your repo's settings make sure:
-  - The repository
-    [requires a review](https://github.blog/2018-03-23-require-multiple-reviewers/)
-    before pull requests can be merged.
-  - The `master`/`main` branch must "_Require status checks to pass before
-    merging_"
-  - The `master`/`main` branch must "_Require require branches to be up to date
-    before merging_"
-
-</details>
+- [Nana](https://github.com/Nana99999)
+- [Ebeneze](https://github.com/Osei-b4)
+- [Takang](https://github.com/Takang03)
+- [Mohammad](https://github.com/MohammadWarisSharafzay)
