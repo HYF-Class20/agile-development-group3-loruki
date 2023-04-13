@@ -16,9 +16,9 @@
 
 - **HOME PAGE**
 - As a user i want know more feature about cloud hosting.
-- [ ] \_there is a prominent navbar in the middle of the page
-- As a user I want to see pictures and logos
-- [ ] \_there is a logo and pictures in middle of the page
+- [ ] _there is a prominent navbar in the middle of the page_
+- As a user I want to see pictures and logos.
+- [ ] _there is a logo and pictures in middle of the page_
 
 ## Could-Haves
 
