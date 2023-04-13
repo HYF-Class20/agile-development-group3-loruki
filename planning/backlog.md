@@ -1,47 +1,29 @@
 # Backlog
 
-A collection of user stories you can choose from. Stories inside each priority
-level are not necessarily in order, it's up to your group to decide how they fit
-into your strategy. These are also just suggestion, feel free to change them or
-create your own!
-
 ## Must-Haves
-
-these are necessary for basic usability
 
 - **HOME PAGE**
 
-- As a site visitor, i can easily understand what the is about.
-
-- [ ] _there is navbar and title at the top of the web page_
-
-- As a user activate, i need to know that card is links to other page.
-
-- [ ] _there is an authentification card_
-
-- As a developer want to see what the design on the page.
-
-- [ ] _there simple design in the card that autosave_
+- As a user i want see the title of the of the website.
+- [ ] _there is a prominent title at the top of the web page_
+- As a user i want see a some info about the website under the showcase.
+- [ ] _there is a prominent info under the showcase_
+- As a user to have the ability to request a dome.
+- [ ] _there is prominent form at the right of the showcase_
+- [ ]
 
 ## Should-Haves
 
-these will complete the user experience, but are not necessary
-
 - **HOME PAGE**
-- As a developer can navigate on the web page from a navbar.
-
-- [ ] _there is a title navbar that top of the page with link to a different
-      section_
+- As a user i want know more feature about cloud hosting.
+- [ ] \_there is a prominent navbar in the middle of the page
+- As a user I want to see pictures and logos
+- [ ] \_there is a logo and pictures in middle of the page
 
 ## Could-Haves
 
-would be really cool ... if there's time
-
 - **HOME PAGE**
-- As a developer can find more information.
-
-- [ ] _there is a extra section of inform_
-
-- As a developer activate, can find some gallery to different programs
-
-- [ ] _there are some animations_
+- As a user i want see an icons of social media with a link to them
+- [ ] _there is social media link to another page in the footer_
+- As a user i want see a the creator of the page in the footer.
+- [ ] _there is copyright in the footer_
