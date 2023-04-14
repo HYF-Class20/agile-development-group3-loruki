@@ -67,7 +67,6 @@ any lessons learned.</br>
 
 - Node 14.16.0
 - VSC code
-- JavaScript
 - HTML
 - CSS
 
