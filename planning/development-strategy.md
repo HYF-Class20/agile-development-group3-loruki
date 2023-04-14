@@ -49,7 +49,7 @@ The site needs a clear title that's easy to read at the top of the page.
 
 ### Navbar HTML
 
-- [ ] links: Logo, Introduction, Content, Extras (issue)
+- [ ] links: Home, Features, Docs (issue)
 
 ### Navbar CSS
 
